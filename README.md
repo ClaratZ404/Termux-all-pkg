@@ -1,0 +1,2 @@
+# Termux-all-pkg
+INSTALASI ALL PKG TERMUX
